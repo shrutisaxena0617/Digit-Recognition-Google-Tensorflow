@@ -1,2 +1,2 @@
 # Digit-Recognition-Google-Tensorflow
-MNIST Digit Recognition using Google Tensorflow
+Digit Recognition using Google Tensorflow on MNIST dataset
